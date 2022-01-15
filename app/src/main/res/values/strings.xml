@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Push Notification</string>
+    <string name="retrieve_token">Retrieve Token</string>
+    <string name="msg_token_fmt">Token: %s</string>
+    <string name="channel_name">FCM Channel</string>
+    <string name="channel_description">push notification channel</string>
+</resources>
